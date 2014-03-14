@@ -44,7 +44,6 @@
 			vb_obj.style.height = screen_height;
 			vb_obj.style.width = screen_height * vb_obj.clientWidth / vb_obj.clientHeight;
 			vb_obj.style.left = -(( screen_height * vb_obj.clientWidth / vb_obj.clientHeight- screen_width ) / 2) + "px";
-			console.log(screen_height * vb_obj.clientWidth / vb_obj.clientHeight);
 		}
 		else {
 			vb_obj.style.width = screen_width + "px";
