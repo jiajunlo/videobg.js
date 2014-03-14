@@ -72,5 +72,6 @@
 	window.onresize = function() {
 		resizeVideo();
 	}
+	
 	window.$vb = videoInit;
 }(window, document));
