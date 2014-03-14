@@ -59,10 +59,7 @@
 				if(settings.folder == undefined) {
 					settings.folder = "";
 				}
-				if(settings.muted == true) {
-					settings.muted = true;
-				}
-				else {
+				if(settings.muted != true) {
 					settings.muted = false;
 				}
 
