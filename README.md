@@ -20,5 +20,6 @@ Then you can set the config as you need
 ### Notes
 > 1. Broswer support: IE9+(the muted setting  is not work for IE9), chrome, firefox, safari, opera;
 > 2. You'd better at least put two type of videos(ogg, mp4, webm) in the folder in order to friendly broswer supporting.
+> 3. Do not set the bockground of the body
 
 Finally, you can see the [demo](http://www.jiajunlo.com/demo/videobg.js) here.
